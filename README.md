@@ -6,4 +6,4 @@ To know more information entering into the jupyter notebook in the google colab.
 \
 in this same colab I try to work with mapping viz. Because I never tried it. And It was amazing make something that I never try before. For everyone whose see this work please feel free to propose improvements.
 \
-\
+
